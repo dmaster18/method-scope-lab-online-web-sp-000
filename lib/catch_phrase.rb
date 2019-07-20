@@ -1,6 +1,6 @@
 phrase = "It's-a me, Mario!"
 def catch_phrase(phrase)
-  phrase
+  phrase = "What's up!"
   print phrase
 end
 
